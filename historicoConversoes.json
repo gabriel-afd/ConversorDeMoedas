@@ -1,0 +1,23 @@
+[
+  {
+    "ValorOriginal": 20.0,
+    "moedaDeOrigem": "BRL",
+    "moedaDeDestino": "USD",
+    "valorConvertido": 3.51,
+    "historicoConversoes": []
+  },
+  {
+    "ValorOriginal": 700.0,
+    "moedaDeOrigem": "COP",
+    "moedaDeDestino": "USD",
+    "valorConvertido": 0.162554,
+    "historicoConversoes": []
+  },
+  {
+    "ValorOriginal": 20.0,
+    "moedaDeOrigem": "USD",
+    "moedaDeDestino": "COP",
+    "valorConvertido": 86124.698,
+    "historicoConversoes": []
+  }
+]
